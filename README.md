@@ -13,8 +13,6 @@ Please note that this repository is currently a work in progress. As soon as new
 
 # About Me
 
-🔬 Background in theoretical physics, specializing in quantum technologies and quantum thermodynamics.
-
 🌐 Multidisciplinary profile with a deep appreciation for mathematical models uncovering patterns in data, exploring the physical world, society, and beyond.
 
 🎓 Completed PhD in nanophysics, now embarking on a career in Data Science.
@@ -22,6 +20,8 @@ Please note that this repository is currently a work in progress. As soon as new
 💡 Leveraging advanced mathematical and programming skills to propose models for business success, valuable insights, and effective data solutions.
 
 📚 Passionate about merging science and technology to drive innovation.
+
+🔬 Background in theoretical physics, specializing in quantum technologies and quantum thermodynamics.
 
 
 # Open to Work Opportunities in Data Science!
