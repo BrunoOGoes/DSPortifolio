@@ -1,4 +1,4 @@
-# Data science  portifolio
+# Data science portifolio
 ## Bruno Ortega Goes, Ms
 Scientist | Theoretical Physicist | Quantum Technologies | Data Science Enthusiast
 
@@ -24,7 +24,7 @@ Please note that this repository is currently a work in progress. As soon as new
 📚 Passionate about merging science and technology to drive innovation.
 
 
-# Open to Work Opportunities and Collaborations in Data Science!
+# Open to Work Opportunities in Data Science!
 
 If my profile and portfolio have caught your interest, let's connect to explore exciting possibilities together. Feel free to reach out to me via email at b.ortega.goes@gmail.com or connect with me on LinkedIn. I look forward to discussing how we can collaborate and make a meaningful impact in the world of data science!
 
@@ -38,11 +38,11 @@ If my profile and portfolio have caught your interest, let's connect to explore 
 
 # Links of interest
 
-LinkedIn: https://www.linkedin.com/in/bruno-ortega-goes-271b36175/
+[LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/)
 
-Google Scholar: https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ
+[Google Scholar](https://scholar.google.com/citations?hl=fr&user=Hq4mgYkAAAAJ)
 
-OrcID: https://orcid.org/0000-0001-9447-3930
+[OrcID](https://orcid.org/0000-0001-9447-3930)
 
 
 
