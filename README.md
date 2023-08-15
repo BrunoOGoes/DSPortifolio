@@ -1,6 +1,6 @@
 # Data science portifolio
 ## Bruno Ortega Goes, Ms
-Scientist | Data Science Enthusiast | Theoretical Physicist | Quantum Technologies
+Scientist | Data Science Enthusiast | Quantum Engineer | Theoretical Physicist | Quantum Technologies
 
 Welcome! I would like to present some of my data science projects that I am particularly proud of. These projects were completed as part of my learning and exploration journey in the field of data science. They showcase my personal interests and demonstrate my skills in modeling, data treatment, and interpretation. Throughout my training, I have gained experience with various tools and techniques, which I have applied to these projects presented in the form of Jupyter notebooks.
 
@@ -26,7 +26,7 @@ Please note that this repository is currently a work in progress. As soon as new
 
 # Open to Work Opportunities in Data Science!
 
-If my profile and portfolio have caught your interest, let's connect to explore exciting possibilities together. Feel free to reach out to me via email at b.ortega.goes@gmail.com or connect with me on LinkedIn. I look forward to discussing how we can collaborate and make a meaningful impact in the world of data science!
+If my profile and portfolio have caught your interest, let's connect to explore exciting possibilities together. Feel free to reach out to me via [email](b.ortega.goes@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/bruno-ortega-goes-271b36175/). I look forward to discussing how we can collaborate and make a meaningful impact in the world of data science!
 
 # Education:
 
