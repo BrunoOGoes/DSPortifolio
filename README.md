@@ -1,4 +1,4 @@
-# Data science portifolio
+# Data Science Portifolio
 ## Bruno Ortega Goes, Ms
 Scientist | Data Science Enthusiast | Quantum Engineer | Theoretical Physicist | Quantum Technologies
 
